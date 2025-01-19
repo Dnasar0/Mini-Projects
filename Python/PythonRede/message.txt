@@ -1,0 +1,7 @@
+Olá pai!
+
+Criei este e-mail e criei um programa para te mandar um mail, tal como uma imagem!
+
+Abraços,
+
+Diogo.
